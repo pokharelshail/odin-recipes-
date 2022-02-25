@@ -1,0 +1,32 @@
+body{
+    font-family: sans-serif, "Times New Roman";
+}
+
+h1,h3{
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+.name {
+    text-align: center;
+    font-size: 30px;
+}
+
+
+h1{
+    color: black;
+    background-color: rgba(93, 159, 251, 0.7);
+}
+
+h3{
+    color: rgba(93, 159, 251, 0.7);
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
